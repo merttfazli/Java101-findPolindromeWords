@@ -2,12 +2,12 @@
 
 Bu Java programı, verilen bir kelimenin bir palindrom olup olmadığını kontrol eder. Bir palindrom, ileriye doğru ve tersten okunduğunda aynı olan bir kelimedir.
 
-# Kurulum
+## Kurulum
 
 - Kaynak kod dosyalarını bilgisayarınıza indirin.
 - Bir Java IDE veya tercih ettiğiniz bir düzenleyicide projeyi açın.
 
-# Kullanım
+## Kullanım
 
 - Programı çalıştırın.
 - İstenildiğinde bir kelime girin.
@@ -20,12 +20,12 @@ Bu README.md dosyası, Palindrom Kontrolü Java programının genel bir açıkla
 
 This Java program checks whether a given word is a palindrome or not. A palindrome is a word that reads the same forwards and backwards.
 
-# Installation
+## Installation
 
 - Download the source code files to your computer.
 - Open the project in a Java IDE or your preferred editor.
 
-# Usage
+## Usage
 
 - Run the program.
 - Enter a word if desired.
